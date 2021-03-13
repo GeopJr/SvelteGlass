@@ -1,0 +1,12 @@
+{
+    "svelte": {
+        "name": "Svelte",
+        "regex": "<[^>]+class=\"[^\"]*(?<!-)\\bsvelte-",
+        "website": "https://svelte.dev/"
+    },
+    "sapper": {
+        "name": "Sapper",
+        "regex": "<script[^>]*>__SAPPER__",
+        "website": "https://sapper.svelte.dev/"
+    }
+}

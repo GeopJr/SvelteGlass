@@ -1,0 +1,49 @@
+{
+  "manifest_version": 2,
+  "name": "SvelteGlass",
+  "homepage_url": "https://github.com/GeopJr/SvelteGlass/",
+  "description": "Analyze Svelte Apps",
+  "default_locale": "en",
+  "permissions": [
+    "activeTab",
+    "http://*/*",
+    "https://*/*",
+    "storage",
+    "tabs"
+  ],
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png",
+    "128": "icons/icon-128.png",
+    "256": "icons/icon-256.png",
+    "512": "icons/icon-512.png"
+  },
+  "background": {
+    "scripts": [
+      "js/background.js"
+    ]
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "SvelteGlass",
+    "default_icon": {
+      "48": "icons/icon-disabled-48.png",
+      "96": "icons/icon-disabled-96.png",
+      "128": "icons/icon-disabled-128.png",
+      "256": "icons/icon-disabled-256.png",
+      "512": "icons/icon-disabled-512.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "js/content-script.js"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}

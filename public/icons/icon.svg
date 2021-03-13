@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="614.10645mm"
+   height="614.10083mm"
+   viewBox="0 0 614.10645 614.10083"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="svelte_glass.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.125"
+     inkscape:cx="-42.332909"
+     inkscape:cy="2543.3684"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="-246.05891,549.26033"
+       orientation="1,0"
+       id="guide855" />
+    <sodipodi:guide
+       position="6.686505,801.97535"
+       orientation="0,-1"
+       id="guide859" />
+    <sodipodi:guide
+       position="148.15721,465.75523"
+       orientation="0,-1"
+       id="guide899" />
+    <sodipodi:guide
+       position="148.33302,465.80918"
+       orientation="1,0"
+       id="guide901" />
+    <sodipodi:guide
+       position="227.79803,386.40871"
+       orientation="0,-1"
+       id="guide1524" />
+    <sodipodi:guide
+       position="227.69364,386.29916"
+       orientation="1,0"
+       id="guide1526" />
+    <sodipodi:guide
+       position="257.71478,362.31525"
+       orientation="1,0"
+       id="guide1556" />
+    <sodipodi:guide
+       position="233.18277,356.25825"
+       orientation="0,-1"
+       id="guide1558" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-328.92517,-262.55316)">
+    <rect
+       style="fill:#ff3e00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.199112"
+       id="rect22"
+       width="503.19498"
+       height="104.01413"
+       x="761.90808"
+       y="-98.94313"
+       ry="52.007065"
+       transform="rotate(45)" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ff3e00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path10"
+       cx="-477.25928"
+       cy="183.16843"
+       rx="177.72972"
+       ry="0" />
+    <circle
+       style="fill:#ff3e00;fill-opacity:1;fill-rule:evenodd;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="path1518"
+       cx="556.61792"
+       cy="490.24591"
+       r="227.69275" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="path1522"
+       cx="556.61792"
+       cy="490.24591"
+       r="157.39418" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect1554"
+       width="143.29668"
+       height="72.107224"
+       x="797.80371"
+       y="-82.850296"
+       ry="36.053612"
+       transform="rotate(45)" />
+  </g>
+</svg>
