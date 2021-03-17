@@ -7,6 +7,10 @@
     <a href="https://github.com/marketplace/actions/action-accessibility"><img src="https://img.shields.io/badge/ACTION-ACCESSIBILITY-ff3e00.svg?style=for-the-badge&labelColor=f8eae3" alt="action accessibility" /></a>
     <a href="https://github.com/GeopJr/svelteglass/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff3e00.svg?style=for-the-badge&labelColor=f8eae3" alt="CoC" /></a>
 </p>
+<p align="center">
+  <br />
+    <a href="https://addons.mozilla.org/en-US/firefox/addon/svelteglass/"><img src="https://i.imgur.com/UkbNoME.png" alt="firefox addon" /></a>
+</p>
 
 This extension will show you what a Svelte App consists of.
 
