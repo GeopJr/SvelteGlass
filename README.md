@@ -10,6 +10,7 @@
 <p align="center">
   <br />
     <a href="https://addons.mozilla.org/en-US/firefox/addon/svelteglass/"><img src="https://i.imgur.com/UkbNoME.png" alt="firefox addon" /></a>
+    <a href="https://chrome.google.com/webstore/detail/svelteglass/ldclibeepjpbdibeblhodoemjnbpkcfc"><img src="https://i.imgur.com/TSTwptM.png" alt="chromium addon" /></a>
 </p>
 
 This extension will show you what a Svelte App consists of.
